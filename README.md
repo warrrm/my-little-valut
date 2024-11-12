@@ -1,2 +1,3 @@
 # This is Meng Wang (warm)
-record my
+- A student in Nanjing University and majors in economics. 
+- Interested in 
